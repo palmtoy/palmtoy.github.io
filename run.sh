@@ -1,1 +1,1 @@
-http-server -p 8080
+sudo http-server -p 80
